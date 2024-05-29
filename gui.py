@@ -8,6 +8,7 @@ import ast
 import webbrowser
 import random
 import string
+import rat
 
 import customtkinter as ctk
 from tkinter import messagebox, filedialog
